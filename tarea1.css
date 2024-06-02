@@ -1,0 +1,11 @@
+.cuadrado {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 20px;
+    cursor: pointer;
+}
+
+#cuadrado1 { background-color: rgb(60, 255, 0); }
+#cuadrado2 { background-color: rgb(241, 5, 190); }
+#cuadrado3 { background-color: rgb(255, 153, 0); }
